@@ -1,0 +1,27 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "just know node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shobujrahman/test.git"
+  },
+  "keywords": [
+    "js",
+    "html",
+    "css"
+  ],
+  "author": "prohor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shobujrahman/test/issues"
+  },
+  "homepage": "https://github.com/shobujrahman/test#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
