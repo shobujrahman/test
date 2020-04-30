@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/shobujrahman/test#readme",
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
